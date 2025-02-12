@@ -33,3 +33,19 @@ git branch -M main
 git push -u origin main
 
 ![alt text](image.png)
+
+git remote -v
+git status
+git branch
+
+Para eliminar la conexión remota
+git remote remove origin
+
+Para eliminar el repositorio si tanta cosa
+rm -rf .git
+
+
+
+------------------
+git init
+
