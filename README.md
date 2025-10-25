@@ -6,7 +6,7 @@ origin  https://github.com/Soldierchris/PokeApiRestful.git (fetch)
 origin  https://github.com/Soldierchris/PokeApiRestful.git (push)
 
 
-#Subir un arhivo a Github
+# Subir un arhivo a Github
 1. Crear el repositorio en GitHub
 HTTPS
 https://github.com/Soldierchris/prueba.git
